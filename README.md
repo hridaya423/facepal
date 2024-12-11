@@ -10,12 +10,12 @@ FaceFetch is a cutting-edge web application that leverages machine learning for 
 - Facial landmark tracking
 - Expression recognition
 - Responsive and beautiful UI
+- Ability to upload pictures
 
 ### Tech Stack
 - Next.js
 - React
 - TensorFlow.js
-- Face-API.js
 - Tailwind CSS
 - Framer Motion
 
@@ -38,9 +38,6 @@ npm install
 yarn install
 ```
 
-3. Download Face-API.js models
-- Download model weights from face-api.js GitHub repository
-- Place in `public/models/` directory
 
 4. Run the development server
 ```bash
@@ -53,8 +50,6 @@ yarn dev
 - Build for production: `npm run build`
 - Start production server: `npm start`
 
-### Contributing
-Pull requests are welcome. For major changes, please open an issue first.
 
 ### License
 MIT License
