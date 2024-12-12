@@ -29,7 +29,7 @@ FaceFetch is a cutting-edge web application that leverages machine learning for 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/facefetch.git
+git clone https://github.com/hridaya423/facefetch.git
 cd facefetch
 ```
 
