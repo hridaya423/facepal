@@ -2,6 +2,8 @@
 
 ## Advanced AI-Powered Face Recognition Application
 
+![Preview](https://cloud-uziugv1g4-hack-club-bot.vercel.app/0image.png)
+
 ### Overview
 FaceFetch is a cutting-edge web application that leverages machine learning for real-time face detection and recognition.
 
